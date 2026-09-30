@@ -58,7 +58,7 @@ You need Python 3.6 or above.
 
 ### Step 2 — Clone or download this repository
 ```
-git clone https://github.com/{your-username}/student-management-system
+git clone https://github.com/ifra26bce11209-byte/Stundent-management-system
 cd student-management-system
 ```
 
@@ -100,8 +100,8 @@ All student records are stored in `students_data.py` as a Python list:
 
 ```python
 students = [
-    {'id': 1001, 'name': 'bharat paliwal', 'grades': {'physics': 100, 'mathematics': 100, 'chemistry': 100}},
-    {'id': 1002, 'name': 'SHUBHAM SAHU', 'grades': {'PHYSICS': 100, 'MATHEMATICS': 100, 'CHEMISTRY': 100}}]
+
+    {'id': 1003, 'name': 'ifra saleem', 'grades': {'PHYSICS': 99, 'MATHEMATICS': 89, 'CHEMISTRY': 100}}]
 ```
 
 Every add or delete updates this file automatically.
